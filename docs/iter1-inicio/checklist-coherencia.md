@@ -59,5 +59,3 @@ Comprobar que la Visión, los requisitos, los casos de uso, los diagramas y los 
 - **Correcciones pendientes:** Completar después de la revisión.
 - **Fecha de revisión:** Por registrar.
 - **Responsables de revisión:** Por registrar.
-
-    ## Revisión por pares - Paso 8 - pendiente de aprobación
