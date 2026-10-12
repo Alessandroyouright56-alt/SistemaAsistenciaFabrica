@@ -8,41 +8,41 @@ Comprobar que la Visión, los requisitos, los casos de uso, los diagramas y los 
 
 ### A. Coherencia con la Visión
 
-- [X]  El propósito del sistema coincide con la automatización del registro de asistencia de la fábrica.
-- [ ] El alcance contempla la identificación mediante huella dactilar y DNI + PIN.
-- [ ] Los cuatro bloques horarios están contemplados: entrada de mañana, salida al almuerzo, retorno del almuerzo y salida de la tarde.
-- [ ] La detección de tardanzas utiliza horarios y tolerancias configurables.
-- [ ] Las funciones representadas en los diagramas están dentro del alcance aprobado.
-- [ ] No se incorporan funciones excluidas de la Visión, como una aplicación móvil para marcar asistencia remotamente.
+- [X] El propósito del sistema coincide con la automatización del registro de asistencia de la fábrica.
+- [X] El alcance contempla la identificación mediante huella dactilar y DNI + PIN.
+- [X] Los cuatro bloques horarios están contemplados: entrada de mañana, salida al almuerzo, retorno del almuerzo y salida de la tarde.
+- [X] La detección de tardanzas utiliza horarios y tolerancias configurables.
+- [X] Las funciones representadas en los diagramas están dentro del alcance aprobado.
+- [X] No se incorporan funciones excluidas de la Visión, como una aplicación móvil para marcar asistencia remotamente.
 
 ### B. Coherencia de requisitos
 
-- [ ] Los requisitos funcionales mantienen identificadores únicos y consistentes.
-- [ ] Los requisitos funcionales principales están representados en casos de uso o artefactos relacionados.
+- [X] Los requisitos funcionales mantienen identificadores únicos y consistentes.
+- [X] Los requisitos funcionales principales están representados en casos de uso o artefactos relacionados.
 - [ ] Los requisitos no funcionales tienen una forma prevista de verificación.
-- [ ] La consulta y exportación de registros a Excel aparecen de manera coherente en los documentos del proyecto.
-- [ ] Las reglas de tardanza y tolerancia están descritas sin contradicciones.
+- [X] La consulta y exportación de registros a Excel aparecen de manera coherente en los documentos del proyecto.
+- [X] Las reglas de tardanza y tolerancia están descritas sin contradicciones.
 
 ### C. Coherencia de los casos de uso y diagramas
 
-- [ ] Los actores mantienen los mismos nombres en todos los diagramas.
-- [ ] Cada caso de uso tiene un identificador único, como `CU-002`.
-- [ ] El caso de uso «Registrar asistencia» contempla la identificación del trabajador.
-- [ ] El flujo alternativo de DNI + PIN está representado.
-- [ ] Los errores de autenticación están contemplados.
+- [X] Los actores mantienen los mismos nombres en todos los diagramas.
+- [X] Cada caso de uso tiene un identificador único, como `CU-002`.
+- [X] El caso de uso «Registrar asistencia» contempla la identificación del trabajador.
+- [X] El flujo alternativo de DNI + PIN está representado.
+- [X] Los errores de autenticación están contemplados.
 - [ ] La marcación duplicada se controla antes de guardar otro registro.
-- [ ] Los estados `OK` y `TARDANZA` se asignan según las reglas establecidas.
+- [X] Los estados `OK` y `TARDANZA` se asignan según las reglas establecidas.
 - [ ] Las excepciones del diagrama también están descritas en el caso de uso correspondiente.
 - [ ] El flujo de guardado contempla tanto el éxito como el error.
 - [ ] Las relaciones entre casos de uso, cuando existen, utilizan correctamente `include` y `extend`.
 
 ### D. Convenciones y trazabilidad
 
-- [ ] Los requisitos utilizan la convención de identificadores acordada.
-- [ ] Los casos de uso utilizan el formato `CU-###`.
-- [ ] Los riesgos utilizan el formato `RSK-###`.
-- [ ] Los términos de los documentos coinciden con el glosario.
-- [ ] Los requisitos de la Visión pueden rastrearse hasta los artefactos que los desarrollan.
+- [X] Los requisitos utilizan la convención de identificadores acordada.
+- [X] Los casos de uso utilizan el formato `CU-###`.
+- [X] Los riesgos utilizan el formato `RSK-###`.
+- [X] Los términos de los documentos coinciden con el glosario.
+- [X] Los requisitos de la Visión pueden rastrearse hasta los artefactos que los desarrollan.
 - [ ] Los cambios realizados en un documento se revisan también en los artefactos relacionados.
 
 ## 3. Registro de inconsistencias
