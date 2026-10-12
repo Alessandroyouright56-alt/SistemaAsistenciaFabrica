@@ -8,7 +8,7 @@ Comprobar que la Visión, los requisitos, los casos de uso, los diagramas y los 
 
 ### A. Coherencia con la Visión
 
-- [ ] El propósito del sistema coincide con la automatización del registro de asistencia de la fábrica.
+- [ x ]  El propósito del sistema coincide con la automatización del registro de asistencia de la fábrica.
 - [ ] El alcance contempla la identificación mediante huella dactilar y DNI + PIN.
 - [ ] Los cuatro bloques horarios están contemplados: entrada de mañana, salida al almuerzo, retorno del almuerzo y salida de la tarde.
 - [ ] La detección de tardanzas utiliza horarios y tolerancias configurables.
